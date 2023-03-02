@@ -2,6 +2,8 @@
 
 This version creates v2.4 compressed plots, with compression level `-C` from 1 to 9.
 
+*Chia_plot* will create anywhere from k26 to k32, while *chia_plot_k34* will create k33 and k34 only.
+
 Both Chia and MMX are supported. The respective binary node / harvester are needed to farm these plots.
 
 Remote copy to a plot sink is now supported via `-d @hostname` or `-d @ip`.
